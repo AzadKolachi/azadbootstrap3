@@ -12,13 +12,18 @@ _site
 *.swp
 *.vi
 *.zip
-*.pub
-<<<<<<< HEAD
-key
-key.pub
 
 =======
->>>>>>> 3c43c0f97c0e17bc3b8bad13181a85902ba406a0
+
+# Ignore key files
+*.pub
+key
+id_rsa
+key.pub
+id_rsa.pub
+
+=======
+
 *~
 # OS or Editor folders
 ._*
