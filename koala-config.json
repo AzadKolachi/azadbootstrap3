@@ -1,0 +1,10 @@
+"mappings": [
+    {   
+        "src": "assets/components/js",
+        "dest": "assets/js"
+    },
+    {   
+        "src": "assets/components/less",
+        "dest": "assets/css"
+    }
+]
