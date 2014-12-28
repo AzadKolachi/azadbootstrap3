@@ -21,12 +21,12 @@
   
   <!-- .container -->
   <section class="container">
-  
   <!-- .content row -->
-  <div class="content row">
-  
+  <div class="content row">  
   <!-- .main -->
-  <section class="main col-lg-8"></section>
+  <section class="main col-lg-8">
+  <?php include "assets/components/php/header.php"; ?>
+  </section>
   <!-- /.main -->
   <!-- .sidebar -->
   <section class="sidebar col-lg-4"></section>
