@@ -12,6 +12,7 @@ _site
 *.swp
 *.vi
 *.zip
+*.pub
 *~
 # OS or Editor folders
 ._*
